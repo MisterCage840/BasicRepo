@@ -1,3 +1,3 @@
-# TemplateRepo
+![basicrepo](https://github.com/user-attachments/assets/1a014fd8-518f-435c-b811-c1ade0d75fa4)
 
-Template Repo for Standard Projects
+Simple image carousel and menu dropdown application
